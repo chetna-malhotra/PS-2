@@ -1,0 +1,21 @@
+.jumbo{
+    height:100px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiPq9ANN3AeL9NMnNB1F-RRbxZNxIg4Q0kZA&usqp=CAU') no-repeat;
+    font-size: smaller;
+    text-align: left;
+}
+.jumbotron{
+    margin-bottom: 0;
+    padding: 2px 0 2px 0;
+}
+.nav-bar-dark{
+background-color: black;
+}
+.button{
+    background-color: steelblue;
+    color:azure;
+    width: 10em;
+}
+.nav-link{
+    color: azure;
+}
