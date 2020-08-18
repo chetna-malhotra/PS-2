@@ -13,13 +13,13 @@ render(){
     return(
     <div>
     <div>
-    <Header/>
+        <Header/>
     </div>
     <div>
-    <Switch>
-    <Route path='/home' component={()=><HomePage/>} />
-    </Switch>
-    <Footer/>
+        <HomePage/>
+    </div>
+    <div>
+        <Footer/>
     </div>
     </div>
     );
